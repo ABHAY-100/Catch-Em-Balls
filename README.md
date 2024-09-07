@@ -29,16 +29,18 @@ Catch 'Em Balls is an engaging game developed using p5.js, a JavaScript library 
 1. Clone the Repository:
 
     ```bash 
-    git clone https://github.com/your-repo/catch-em-balls.git
+    git clone https://github.com/ABHAY-100/Catch-Em-Balls.git
     ```
     
 2. Navigate to the Project Directory:
    
     ```bash 
-    cd catch-em-balls
+    cd Catch-Em-Balls
     ```
     
 3. Open the HTML File: Open `index.html` in your browser to start playing
+
+*Note: You can also play the game online at [Catch 'Em Balls](https://catch-em-balls.vercel.app/).*
 
 ## Conclusion
 
