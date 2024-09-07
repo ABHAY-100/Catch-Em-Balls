@@ -24,6 +24,22 @@ Catch 'Em Balls is an engaging game developed using p5.js, a JavaScript library 
 - **Increasing Difficulty**: The game becomes more challenging as balls fall from the top of the screen at a constant speed.
 - **Game Over State**: The game ends when a ball is missed, displaying a "Game Over" message.
 
+## Getting Started
+
+1. Clone the Repository:
+
+    ```bash 
+    git clone https://github.com/your-repo/catch-em-balls.git
+    ```
+    
+2. Navigate to the Project Directory:
+   
+    ```bash 
+    cd catch-em-balls
+    ```
+    
+3. Open the HTML File: Open `index.html` in your browser to start playing
+
 ## Conclusion
 
 Catch 'Em Balls is a straightforward yet captivating game that challenges players' reflexes and timing. With easy controls and increasing difficulty, it offers an entertaining experience for players of all ages.
