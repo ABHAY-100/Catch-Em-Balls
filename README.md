@@ -8,7 +8,7 @@
 
 ## Overview
 
-Catch the Falling Objects is a simple and engaging game developed using p5.js, a JavaScript library for creative coding. In this game, the player controls a character or basket to catch objects falling from the top of the screen. The player uses keyboard inputs to move the character left and right, aiming to catch as many objects as possible. The game introduces scoring and levels by increasing the speed or number of falling objects, providing a fun and challenging experience.
+Catch 'Em Balls is an engaging game developed using p5.js, a JavaScript library for creative coding. In this game, players control a square to catch falling balls, aiming to score as many points as possible. The game features simple controls and increasing difficulty, providing a fun and challenging experience.
 
 ## Team Members
 
@@ -19,15 +19,14 @@ Catch the Falling Objects is a simple and engaging game developed using p5.js, a
 
 ## Key Features
 
-- **Simple Controls**: Use keyboard inputs to move the character or basket, making the game easy to pick up and play.
-- **Scoring System**: Earn points by catching falling objects, encouraging players to achieve high scores.
-- **Increasing Difficulty**: As the game progresses, the speed or number of falling objects increases, adding challenge and excitement.
-- **Visual and Audio Feedback**: Engaging visuals and sound effects enhance the gaming experience, providing feedback on catches and misses.
-- **Levels and Progression**: Introduce new levels with different challenges as the player advances, keeping the gameplay fresh and exciting.
+- **Simple Controls**: Move the basket left and right using keyboard inputs.
+- **Scoring System**: Earn points by catching falling balls. The score is displayed prominently.
+- **Increasing Difficulty**: The game becomes more challenging as balls fall from the top of the screen at a constant speed.
+- **Game Over State**: The game ends when a ball is missed, displaying a "Game Over" message.
 
 ## Conclusion
 
-Catch the Falling Objects is a straightforward yet captivating game that challenges players' reflexes and timing. With its easy-to-learn controls and progressively increasing difficulty, the game offers an entertaining experience for players of all ages. We believe this project will not only be fun to develop but also provide an enjoyable gaming experience.
+Catch 'Em Balls is a straightforward yet captivating game that challenges players' reflexes and timing. With easy controls and increasing difficulty, it offers an entertaining experience for players of all ages.
 
 <br/>
 
