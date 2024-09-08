@@ -9,10 +9,13 @@ let gameOver;
 function setup() {
   createCanvas(500, 500).position((windowWidth - width) / 2, (windowHeight - height) / 2);
   size = 50;
+
   x = width / 2 - size / 2;
   y = height - size;
+
   position = createVector(random(width), 0);
   velocity = createVector(0, 5);
+
   score = 0;
   gameOver = false;
 }
@@ -24,6 +27,7 @@ function draw() {
   }
 
   background(255, 0, 102);
+
   handleMovement();
   updatePosition();
   handleCollision();
