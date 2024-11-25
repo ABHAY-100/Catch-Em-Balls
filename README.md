@@ -57,7 +57,7 @@ Catch 'Em Balls is an engaging game developed using p5.js, a JavaScript library 
 
 *Note: You can also play the game online at [Catch 'Em Balls](https://catch-em-balls.vercel.app/).*
 
-## Build With
+## Built With
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,html,css,p5js,vscode,vercel)
 
